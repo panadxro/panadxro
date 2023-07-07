@@ -23,9 +23,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="17" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="29" height="17" alt="behance logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="29" height="17" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/panadxro/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="17" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/panadxro/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="29" height="17" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram/panadxro/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="29" height="17" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
