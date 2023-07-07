@@ -23,13 +23,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/panadxro/">
+  <a href="https://www.linkedin.com/in/panadxro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="17" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/panadxro/">
+  <a href="https://www.behance.net/panadxro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="29" height="17" alt="behance logo"  />
   </a>
-  <a href="https://www.instagram.com/panadxro/">
+  <a href="https://www.instagram.com/panadxro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="29" height="17" alt="instagram logo"  />
   </a>
 </div>
