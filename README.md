@@ -22,7 +22,7 @@
 
 ###
 
-<h5 align="left">Languages & Tools</h5>
+<h5 align="left">Social Media/h5>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/panadxro/" target="_blank">
