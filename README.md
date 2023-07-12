@@ -1,7 +1,3 @@
-<h3 align="left">I'm Lucas</h3>
-
-###
-
 <h5 align="left">Languages & Tools</h5>
 
 ###
