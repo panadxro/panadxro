@@ -18,12 +18,3 @@ Committed to excellence and the ability to merge aesthetics with functionality o
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="24" alt="illustrator logo"  />
 </div>
-  <a href="https://www.behance.net/panadxro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="29" height="17" alt="behance logo"  />
-  </a>
-  <a href="https://www.instagram.com/panadxro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="29" height="17" alt="instagram logo"  />
-  </a>
-</div>
-
-###
