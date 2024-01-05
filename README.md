@@ -1,4 +1,4 @@
-Web Design and Programming student 🎓, with solid skills in HTML, CSS and JavaScript 💻, as well as creative skills in Figma, Illustrator and Photoshop 🎨
+Web Design and Programming student 🎓, with basic skills in HTML, CSS and JavaScript 💻, as well as creative skills in Figma, Illustrator and Photoshop 🎨
 
 Committed to excellence and the ability to merge aesthetics with functionality of projects to propel them to success 🚀
 <h5 align="left">Languages & Tools</h5>
