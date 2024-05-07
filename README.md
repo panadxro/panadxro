@@ -20,7 +20,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="32" title="MySQL"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="32" title="Git">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="32" title="Wordpress">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma.svg" width="32" title="Figma">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="32" title="Illustrator">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="32" title="Photoshop">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width="32" title="Notion">
