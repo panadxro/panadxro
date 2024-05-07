@@ -1,94 +1,88 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Panadero Lucas",
+    "label": "Desarrollador  Frontend y Diseñador UX/UI",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "lucasn.panadero@gmail.com",
+    "phone": "+94 1127823300",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+2 años de experiencia como Desarrollador Front End. Trayectoria en desarrollo web de alta calidad ofreciendo soluciones innovadoras enfocadas al cliente. Mentalidad emprendedora y austera respaldada por mi experiencia tanto de forma independiente como con equipos en una amplia gama de industrias.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Buenos Aires",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/panadxro/"
       },
       {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "network": "Behance",
+        "username": "panadxro",
+        "url": "https://www.behance.net/panadxro"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "panadxro",
+        "url": "https://github.com/panadxro"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
+      "name": "Desarrollador Front End y Diseñador UX/UI",
+      "position": "Desarrollo y Diseño Web [Freelance]",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Arquitectura de la Información, Prototipado, Wireframes, Mockups, Usabilidad. Maquetado, Diseño, Interactividad, Accesibilidad, Adaptabilidad de sitios y aplicaciones web. Ademas de Integracion de APIs y frameworks."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "Técnico de PC, portátiles y móviles",
+      "position": "Servicio Técnico [Quilmes, Buenos Aires]",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
+      "startDate": "2022-01-01",
+      "endDate": "2023-03-01",
+      "summary": "Mantenimiento de hardware y software de dispositivos electrónicos. Mejora de componentes, cambio de respuestos, instalación de programas y sistemas operativos."
+    },
+    {
+      "name": "Ayudante de Mecánico",
+      "position": "Industria Automotriz [Berazategui, Buenos Aires]",
+      "startDate": "2019-09-01",
+      "endDate": "2021-12-01",
+      "summary": "Mantenimiento (Service) y reparación de vehículos. Cambio de piezas, embrague, caja de cambios, suspenciones y motores. Colaboración con el equipo de mecánicos para diagnosticos y solucionar problemas. Mantenimiento y limpieza de herramientas, establecimiento y equipos."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Escuela Da Vinci",
+      "url": "https://davinci.edu.ar/",
+      "area": "Técnico Superior en Diseño y Programación Web",
+      "studyType": "Universitario",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+      "institution": "Britannia English Centre",
+      "url": "https://www.britannia.com.ar",
+      "area": "Inglés de nivel sexto superior",
+      "studyType": "Idiomas",
+      "startDate": "2014-03-01",
+      "endDate": "2019-12-01",
+      "score": "6.0",
+      "courses": [
+        "DB1101 - Basic SQL"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -145,6 +139,13 @@
       ]
     },
     {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -159,7 +160,7 @@
       ]
     },
     {
-      "name": "Git",
+      "name": "Astrojs",
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
@@ -173,14 +174,28 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
-      "name": "React",
+      "name": "Figma",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Wordpress",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Vue",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
@@ -197,79 +212,69 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Dropdead",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Ecommerce de ropa vanguardista",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Javascript",
+        "Php",
+        "Bootstrap"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.behance.net/gallery/196391789/DROPDEAD-Ecommerce"
     },
     {
-      "name": "AdventJS",
+      "name": "Sowy",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "App de compra y venta de productos Zero Waste, Veganos y Organicos",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Figma",
+        "Wordpress"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://www.behance.net/gallery/187346635/Sowy-Mobile-App"
     },
     {
-      "name": "Codember",
+      "name": "El Melomano",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Tienda de albums de música online",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Javascript",
+        "Vue",
+        "Tailwind"
       ],
-      "url": "https://codember.dev"
+      "url": "https://panadxro.github.io/Melomano/"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "Doggy App",
+      "isActive": false,
+      "description": "App donde te puedes informar de todos los cuidados que necesita tu mascota.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Figma",
+        "UX/UI"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://www.behance.net/gallery/188072771/Doggy-app-UXUI"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "name": "Niño Gordo",
+      "isActive": false,
+      "description": "Parrilla asiática que propone un mix de sabores de Oriente unidos a la comida porteña.",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "HTML", 
+        "CSS",
+        "Php"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://ninogordo.netlify.app/"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Initial D",
+      "description": "Landing page y presentación de la serie japonesa Initial D",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "HTML",
+        "CSS",
+        "Php"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://initiald.netlify.app"
     }
   ]
 }

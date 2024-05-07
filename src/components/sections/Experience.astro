@@ -6,9 +6,9 @@ import { work } from '@/cv.json'
 
 <Section title="Experiencia">
   <ul>
-    {work.map(({ name, startDate, endDate, position, summary, highlights }) => {
+    {work.map(({ name, startDate, endDate, position, summary }) => {
       const startYear = new Date(startDate).getFullYear()
-      const endYear = endDate !== null ? new Date(endDate).getFullYear() : "Present"
+      const endYear = endDate !== null ? new Date(endDate).getFullYear() : "Actualmente"
       const years = `${startYear} - ${endYear}`
 
       return (
@@ -24,7 +24,6 @@ import { work } from '@/cv.json'
             </header>
             <footer>
               <p>{summary}</p>
-
             </footer>
           </article>
         </li>
@@ -41,13 +40,14 @@ import { work } from '@/cv.json'
   }
 
   article h3 {
-    font-weight: 500;
+    font-weight: 600;
     color: #111;
   }
 
   article h4 {
-    color: #222;
-    font-weight: 400;
+    color: #888;
+    font-weight: 500;
+    font-size: .9rem;
   }
 
   header {
