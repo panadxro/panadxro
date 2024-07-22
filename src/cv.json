@@ -235,15 +235,15 @@
       "url": "https://www.behance.net/gallery/187346635/Sowy-Mobile-App"
     },
     {
-      "name": "El Melomano",
+      "name": "Rollytone",
       "isActive": true,
-      "description": "Tienda de albums de música online",
+      "description": "Plataforma de albums de música",
       "highlights": [
         "Javascript",
         "Vue",
         "Tailwind"
       ],
-      "url": "https://panadxro.github.io/Melomano/"
+      "url": "https://rollytone.netlify.app/"
     },
     {
       "name": "Doggy App",
